@@ -4,7 +4,6 @@
 💻 SWE Intern @ BluSapphire | 📚 CS @ UMass Amherst  
 🔬 AI Researcher @ CIIR & BioNLP Lab | LLMs • Infra • Reasoning • Distributed Systems
 
-
 **Available in Summer 2026 for Internships**
 
 # 💫 About Me:
@@ -17,13 +16,6 @@
 - ⚡ I over-engineer personal projects like they are at industry scale because… why not?
 - 📫 How to reach me:  
   [📄 Portfolio](https://bpingali.netlify.app) • [💼 LinkedIn](https://linkedin.com/in/bhanu-sohan-pingali)
-
----
-
-## 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sohan-pingali)
-
----
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,3 +48,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=bhanuPingali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sohan-pingali)
+

@@ -2,9 +2,9 @@
 # 👋 Hi, I'm Bhanu Sohan Pingali
 
 💻 SWE Intern @ BluSapphire | 📚 CS @ UMass Amherst  
-🔬 Researcher @ CIIR & BioNLP Lab | AI • Infra • Reasoning • Healthcare
+🔬 AI Researcher @ CIIR & BioNLP Lab | LLMs • Infra • Reasoning • Distributed Systems
 
----
+
 **Available in Summer 2026 for Internships**
 
 # 💫 About Me:
@@ -21,8 +21,7 @@
 ---
 
 ## 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sohan-pingali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sohan-pingali)
 
 ---
 
@@ -45,14 +44,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bhanuPingali&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhanuPingali&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuPingali&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=P-Bhanu-Sohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=P-Bhanu-Sohan&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Bhanu-Sohan&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 ## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=bhanuPingali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=P-Bhanu-Sohan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 

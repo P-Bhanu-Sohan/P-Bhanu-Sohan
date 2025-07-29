@@ -51,7 +51,7 @@
 ---
 
 ## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=P-Bhanu-Sohan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=P-Bhanu-Sohan&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 

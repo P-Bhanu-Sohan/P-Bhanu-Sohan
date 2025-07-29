@@ -8,8 +8,8 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working as a **SWE Intern at BluSapphire**, building agentic AI pipelines for large scale data engineering.
-- 🧠 I’m also a **Undergraduate Researcher** at the **Center for Intelligent Information Retrieval (CIIR)** and was previously at the **BioNLP Lab (URV Winter 24)** at UMass Amherst.
-- 🌱 I’m currently learning **Kafka**, **Redis**, **Cybersecurity** and exploring **System Design** for high throughput scalable distributed systems.
+- 🧠 I’m also a **Undergraduate Researcher** at the **Center for Intelligent Information Retrieval (CIIR)** and was previously at the **BioNLP Lab**.
+- 🌱 I’m currently learning **Kafka**, **Redis**, **Cybersecurity** and exploring **System Design** for scalable distributed systems.
 - 👯 I’m looking to collaborate on **Distributed Systems**, **infra-heavy AI LLM tools**, and **research-driven ML projects**.
 - 🤔 I’m looking for help with optimizing **LLM reasoning** and deploying **scalable** agent workflows.
 - 💬 Ask me about **LLMs**, **retrieval systems**, **FastAPI**, **Kafka**, or anything **infra + AI**.

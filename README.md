@@ -31,23 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-yellow?style=for-the-badge&logoColor=black)
-
 ---
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=P-Bhanu-Sohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=P-Bhanu-Sohan&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Bhanu-Sohan&theme=radical&hide_border=false&layout=compact)
-
----
-
-## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=P-Bhanu-Sohan&limit=3&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=bhanuPingali&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect With Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sohan-pingali)

@@ -4,7 +4,7 @@
 💻 SWE Intern @ BluSapphire | 📚 CS @ UMass Amherst  
 🔬 AI Researcher @ CIIR & BioNLP Lab | LLMs • Infra • Reasoning • Distributed Systems
 
-**Available in Summer 2026 for Internships**
+**Available in Summer 2026 for Internships** I'm currently exploring Distributed LLM Inference, and how it could help handle high throughput in such apps!
 
 # 💫 About Me:
 - 🔭 I’m currently working as a **SWE Intern at BluSapphire**, building agentic AI pipelines for large scale data engineering.

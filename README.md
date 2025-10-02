@@ -1,14 +1,14 @@
 
 # 👋 Hi, I'm Bhanu Sohan Pingali
 
-💻 SWE Intern @ BluSapphire | 📚 CS @ UMass Amherst  
+💻 SDE @ BUILD UMASS | SWE Intern @ BluSapphire | 📚 CS @ UMass Amherst  
 🔬 AI Researcher @ CIIR & BioNLP Lab | LLMs • Infra • Reasoning • Distributed Systems
 
 **Available in Summer 2026 for Internships** 
 
 
 # 💫 About Me:
-- 🔭 I’m currently working as a **SWE Intern at BluSapphire**, building agentic AI pipelines for large scale data engineering.
+- 🔭 I’m currently working as a **SDE @ BUILD UMASS**
 - 🧠 I’m also a **Undergraduate Researcher** at the **Center for Intelligent Information Retrieval (CIIR)** and was previously at the **BioNLP Lab**.
 - 🌱 I’m currently learning **Kafka**, **Redis**, **Cybersecurity** and exploring **System Design** for scalable distributed systems.
 - 👯 I’m looking to collaborate on **Distributed Systems**, **infra-heavy AI LLM tools**, and **research-driven ML projects**.

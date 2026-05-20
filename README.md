@@ -20,7 +20,7 @@
 - 👯 Talk to me about **Distributed Systems**, **AI Inference**, **Messaging Queues**, or anything regarding robust system architecture.
 
 - 📫 How to reach me:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bpingali.netlify.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bspingali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://https://p-bhanu-sohan.github.io)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bspingali)
 
 # 💻 Tech Stack & Ecosystem:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
